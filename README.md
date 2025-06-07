@@ -4,7 +4,7 @@ Project on Document Verification System
   1. Academic Document Verification
   2. Government Document Verification
   3. Invoice / Bill Verification System
-[![Watch the demo](https://img.youtube.com/vi/abc123XYZ/maxresdefault.jpg)](https://www.youtube.com/watch?v=abc123XYZ)
+
 
 Currently we have completed working model of the phase 1 i.e. Academic Document Verification 
 This Academic Document Verification System uses advanced techniques to verify the authenticity of academic documents like marksheets and transcripts.
