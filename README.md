@@ -1,5 +1,5 @@
 # Document_verification_system
-Project on Document Verification System
+Project on Document Verification System. Click the image to see the full working video of the project on the local PC 
 [![Watch Demo](./project-demo-banner.png)](https://vimeo.com/1091414859)
 
 3 Phases to this Project out of which one phase is complete:
