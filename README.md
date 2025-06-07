@@ -7,7 +7,7 @@ Project on Document Verification System. Click the image to see the full working
   2. Government Document Verification
   3. Invoice / Bill Verification System
 
-
+App.py file contains the full cleaned code of the project 
 Currently we have completed working model of the phase 1 i.e. Academic Document Verification 
 This Academic Document Verification System uses advanced techniques to verify the authenticity of academic documents like marksheets and transcripts.
 
